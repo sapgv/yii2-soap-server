@@ -10,7 +10,7 @@
 		"wiki": "https://github.com/sapgv/yii2-soap-server/wiki",
 		"source": "https://github.com/sapgv/yii2-soap-server"
 	},
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
 	"require": {
 		"ext-soap": "*",
 		"yiisoft/yii2": "*",
